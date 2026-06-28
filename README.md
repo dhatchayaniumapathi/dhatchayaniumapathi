@@ -1,80 +1,78 @@
-# Dhatchayani Umapathi
+[profile_README.md](https://github.com/user-attachments/files/29439082/profile_README.md)
+# Hi, I'm Dhatchayani 
 
-Artificial Intelligence & Data Science Student | Full Stack Developer
+**Artificial Intelligence & Data Science student** · MERN stack developer · ML engineer in the making  
+Rajalakshmi Institute of Technology · Graduating 2028
 
-I build full-stack web applications and machine learning solutions that solve practical problems. My interests lie in backend engineering, scalable web development, and applying machine learning to real-world use cases.
+---
 
-## About
+##  Featured Projects
 
-I am currently pursuing a B.Tech in Artificial Intelligence & Data Science at Rajalakshmi Institute of Technology.
+###  [BurnoutIQ](https://github.com/dhatchayaniumapathi/productivity-burnout-prediction-system) — ML Burnout Risk Predictor
+> Random Forest · Flask REST API · Interactive UI · 87% accuracy · <200ms inference
 
-My experience includes developing REST APIs, responsive web applications, and machine learning pipelines using the MERN stack and Python. I enjoy writing clean, maintainable code and continuously improving my understanding of software engineering principles and system design.
+Predicts employee burnout risk from behavioral data. Deployed as a REST API with a real-time slider-based UI.
 
-## Technical Skills
+`Python` `Scikit-learn` `Flask` `Pandas` `NumPy` `Random Forest`
 
-**Languages**
+---
 
-Python • JavaScript • Java • C • SQL
+###  [PriceScope](https://github.com/dhatchayaniumapathi/housing-price-prediction) — Housing Valuation Engine
+> Ridge vs Lasso vs Linear · 18% RMSE improvement · Feature engineering · Dark UI
 
-**Frontend**
+Benchmarks 3 regression models on 1,200 housing records. Best model (Ridge, R²=0.94) served via Flask API.
 
-React.js • HTML5 • CSS3
+`Python` `Scikit-learn` `Flask` `Matplotlib` `Ridge Regression` `Cross-validation`
 
-**Backend**
+---
 
-Node.js • Express.js • Flask • REST APIs • JWT Authentication
+###  [TaskFlow](https://github.com/dhatchayaniumapathi/Task-management-system) — Full Stack Project Management System
+> MERN stack · JWT auth · Role-based access · Real-time Socket.io · Drag-and-drop Kanban
 
-**Machine Learning**
+ **[Live Demo](https://task-management-system-theta-ten.vercel.app)**
 
-Scikit-learn • Pandas • NumPy • Feature Engineering • Regression Analysis
+Production-style task management app with real-time updates, Kanban board, and a full notification system.
 
-**Databases**
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `JWT` `Vercel` `Render`
 
-MongoDB • MySQL
+---
 
-**Tools**
+## 🛠️ Tech Stack
 
-Git • GitHub • GitHub Actions • Postman • VS Code • Figma
+```
+Languages      Python · JavaScript (ES6+) · Java · C · SQL
+Frontend       React.js · HTML5 · CSS3 · Responsive UI
+Backend        Node.js · Express.js · Flask · REST API · JWT Auth
+Data & ML      Scikit-learn · Pandas · NumPy · Random Forest · Ridge/Lasso
+Databases      MongoDB · SQL · Query optimisation
+Dev Tools      Git · GitHub Actions (CI) · Postman · Figma · VSCode
+Coursework     Data Structures & Algorithms · OS · DBMS
+```
 
-## Featured Projects
+---
 
-### Productivity and Burnout Prediction System
+##  Currently learning
 
-Machine learning application that predicts employee burnout using a Random Forest model with a Flask REST API.
+- System Design & scalable architecture
+- Data Structures & Algorithms (for interviews)
+- Cloud Computing (AWS basics)
+- Docker & containerisation
 
-### Housing Price Prediction Using Regression Analysis
+---
 
-Machine learning project comparing regression models using feature engineering and cross-validation to improve prediction accuracy.
+##  GitHub Stats
 
-### Task Management System
+![Dhatchayani's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhatchayaniumapathi&show_icons=true&theme=tokyonight&hide_border=true)
 
-Full-stack web application developed during my internship using React.js, Node.js, Express.js, MongoDB, and JWT authentication.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhatchayaniumapathi&layout=compact&theme=tokyonight&hide_border=true)
 
-## Currently Learning
+---
 
-* Data Structures and Algorithms
-* System Design
-* Cloud Computing
-* Docker
+##  Connect
 
-## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhatchayani-umapathi-34b71032b)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhatchayaniumapathi@gmail.com)
 
-LinkedIn: https://linkedin.com/in/dhatchayani-umapathi-34b71032b
+---
 
-Email: [dhatchayaniumapathi@gmail.com](mailto:dhatchayaniumapathi@gmail.com)
-
-
-<!--
-**dhatchayaniumapathi/dhatchayaniumapathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Open to software engineering and ML internships · Available from 2025*
