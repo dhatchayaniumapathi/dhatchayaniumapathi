@@ -37,7 +37,7 @@ Production-style task management app with real-time updates, Kanban board, and a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ```
 Languages      Python · JavaScript (ES6+) · Java · C · SQL
