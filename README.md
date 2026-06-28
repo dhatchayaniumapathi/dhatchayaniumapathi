@@ -75,4 +75,4 @@ Coursework     Data Structures & Algorithms · OS · DBMS
 
 ---
 
-*Open to software engineering and ML internships · Available from 2025*
+*Open to software engineering and ML internships · Available immediately*
