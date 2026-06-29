@@ -29,7 +29,7 @@ Benchmarks 3 regression models on 1,200 housing records. Best model (Ridge, R²=
 ###  [TaskFlow](https://github.com/dhatchayaniumapathi/Task-management-system) — Full Stack Project Management System
 > MERN stack · JWT auth · Role-based access · Real-time Socket.io · Drag-and-drop Kanban
 
- **[Live Demo](task-management-system-five-taupe.vercel.app
+ **[Live Demo](https://task-management-system-five-taupe.vercel.app
 )**
 
 Production-style task management app with real-time updates, Kanban board, and a full notification system.
